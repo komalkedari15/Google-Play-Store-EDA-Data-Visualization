@@ -12,9 +12,13 @@ Libraries used : Pandas , Numpy , Seaborn , Matplotlip
 Table of contents:
 
 Loading the dataset
+
 Understanding the dataset
+
 Handling missing data
+
 Data preprocessing
+
 Data visualization
 
 Apps dataset columns descriptions:
